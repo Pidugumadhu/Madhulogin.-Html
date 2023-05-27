@@ -1,2 +1,20 @@
 # Madhulogin.-Html
 Madhu. Html
+<html>
+<head>
+<title>gaffur</title>
+</head>
+<body bg color="green">
+<h1>5xtra login page</h1>
+<form>
+ <label>username</label>
+ <input type="text" name="username" placeholder="full name"><br/>
+ <label>password</label>
+ <input type="text" name="password" placeholder="enter password"><br/>
+ email:<input type="email" placeholder="enter email"><br>
+ mobile number:<input type="number" placeholder="enter ph number"><br>
+ date of birth:<input type="date"><br>
+ submit:<input type="submit">
+ <input type="checkbox">
+</body>
+</html> 
